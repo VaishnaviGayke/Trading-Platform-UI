@@ -56,12 +56,12 @@ It will run on: http://127.0.0.1:5050
 
 Endpoints:
 
-/price → Live BTC price
+- **/price →** Live BTC price
 
-/orderbook → Simulated order book data
+- **/orderbook →** Simulated order book data
 
-/trade (POST) → Submit a trade
+- **/trade (POST) →** Submit a trade
 
-/trades (GET) → Fetch all trades
+- **/trades (GET) →** Fetch all trades
 
 
