@@ -40,6 +40,12 @@ A cross-platform real-time trading application built using *Qt/QML*, *JavaScript
 
 ---
 
+## 💻 Snapshot
+
+![image](https://github.com/user-attachments/assets/360a93c9-f839-45d1-8d2f-f38fe8d6d504)
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
