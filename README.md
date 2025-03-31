@@ -45,3 +45,23 @@ A cross-platform real-time trading application built using *Qt/QML*, *JavaScript
 ### 1. Clone the Repository
 git clone https://github.com/VaishnaviGayke/trading-platform-ui.git
 cd trading-platform-ui
+
+### 2. Install Backend Requirements
+pip install flask flask-cors requests
+
+### 3. Run the Flask Backend
+python app.py
+
+It will run on: http://127.0.0.1:5050
+
+Endpoints:
+
+/price → Live BTC price
+
+/orderbook → Simulated order book data
+
+/trade (POST) → Submit a trade
+
+/trades (GET) → Fetch all trades
+
+
