@@ -44,6 +44,7 @@ A cross-platform real-time trading application built using *Qt/QML*, *JavaScript
 
 ### 1. Clone the Repository
 git clone https://github.com/VaishnaviGayke/trading-platform-ui.git
+
 cd trading-platform-ui
 
 ### 2. Install Backend Requirements
