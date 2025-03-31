@@ -76,6 +76,7 @@ Test live ticker, trade panel, chart, and order book
 ---
 
 ## 📁 Folder Structure
+
 📦 trading-platform-ui
 ┣ 📄 app.py                 # Flask backend
 ┣ 📁 qml/                   # Qt Quick files
