@@ -64,4 +64,34 @@ Endpoints:
 
 - **/trades (GET) →** Fetch all trades
 
+### 4. Run the Qt App
+Open TradingPlatformUI.pro in Qt Creator
+
+Build and Run the project
+
+Make sure the Flask server is running in background
+
+Test live ticker, trade panel, chart, and order book
+
+---
+
+## 📁 Folder Structure
+📦 trading-platform-ui
+┣ 📄 app.py                 # Flask backend
+┣ 📁 qml/                   # Qt Quick files
+┃ ┗ 📄 Main.qml             # UI layout & logic
+┣ 📄 README.md              # Project description
+┣ 📄 requirements.txt       # Flask dependencies
+
+---
+###🧠 Future Enhancements
+- ✅ Trade History UI panel
+
+- ⏳ Export trades to CSV
+
+- ⏳ Wallet balance tracking
+
+- ⏳ Light/Dark mode toggle
+
+- ⏳ Authentication
 
